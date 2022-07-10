@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f1648788
 license: CC0-1.0
+name: truegrf-empty-industry
 type: industry
+url: https://github.com/TrueBrain/truegrf-empty-industry
 version: 6
